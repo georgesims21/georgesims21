@@ -2,7 +2,15 @@
 
 I'm a senior DevOps/Platform Engineer at Bynder focusing on developer experience.  
 
-I write about engineering, infrastructure, and AI tooling at [downtherabithole.dev](https://downtherabithole.dev).  
+I write about engineering, infrastructure, and AI tooling at [downtherabithole.dev](https://downtherabithole.dev). I also love to [homelab]() and [code some cool things]() in my spare time. When I'm not doing that I'm probably drinking overpriced coffee or restoration videos on YT.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sims-george)
+[![Blog](https://img.shields.io/badge/Blog-downtherabithole.dev-000000?style=for-the-badge&logo=rss&logoColor=white)](https://downtherabithole.dev)
+
+## 🎓 Certifications
+
+[![CKA](https://img.shields.io/badge/CNCF-Certified%20Kubernetes%20Administrator-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://www.credly.com/badges/551021cf-33f6-443d-82d2-f711dec73cb3/public_url)
+[![CompTIA Linux+](https://img.shields.io/badge/CompTIA-Linux%2B-E4162B?style=for-the-badge&logo=linux&logoColor=white)](https://cp.certmetrics.com/comptia/en/public/verify/credential/DD4XKLRVG706F3W7)
 
 ## 📝 Latest posts
 
