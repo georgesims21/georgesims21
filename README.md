@@ -2,18 +2,9 @@
 
 I'm a senior DevOps/Platform Engineer at Bynder focusing on developer experience.  
 
-I write about engineering, infrastructure, and AI tooling at [downtherabithole.dev](https://downtherabithole.dev). I also love to [homelab](https://github.com/georgesims21/homelab) and [code some cool things](https://github.com/georgesims21/bunqd) in my spare time. When I'm not doing that I'm probably drinking overpriced coffee or watching restoration videos on YT.
-
-<a href="https://www.linkedin.com/in/sims-george"><img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn" height="60"></a>
-<a href="https://downtherabithole.dev"><img src="https://cdn.hashnode.com/uploads/og-images/698ce732e249cba68b3bbdb5/64fd146d-6db0-486d-8ecf-03cea38f3dee.png" alt="Down The Ra-bit Hole blog" height="120"></a>
-
-## 🎓 Certifications
-
-<a href="https://www.credly.com/badges/551021cf-33f6-443d-82d2-f711dec73cb3/public_url"><img src="https://images.credly.com/images/8b8ed108-e77d-4396-ac59-2504583b9d54/linkedin_thumb_cka_from_cncfsite__281_29.png" alt="CKA: Certified Kubernetes Administrator" height="120"></a>
-<a href="https://cp.certmetrics.com/comptia/en/public/verify/credential/DD4XKLRVG706F3W7"><img src="https://images.credly.com/images/eb876a27-49d1-4644-a602-abfc74e084f0/CompTIA_Linux_2B.png" alt="CompTIA Linux+" height="120"></a>
-
+I write about engineering, infrastructure, and AI tooling at [downtherabithole.dev](https://downtherabithole.dev). 
 ## 📝 Latest posts
-
+<a href="https://downtherabithole.dev"><img src="https://cdn.hashnode.com/uploads/og-images/698ce732e249cba68b3bbdb5/64fd146d-6db0-486d-8ecf-03cea38f3dee.png" alt="Down The Ra-bit Hole blog" height="120"></a>
 <!-- BLOG-POST-LIST:START -->
 - [Looking Through Claude&#39;s Context Window](https://downtherabithole.dev/looking-through-claude-s-context-window)
 - [What Is a Token?](https://downtherabithole.dev/what-is-a-token)
@@ -21,3 +12,14 @@ I write about engineering, infrastructure, and AI tooling at [downtherabithole.d
 - [Migrating A Critical Kubernetes Deployment From The Default Namespace Without Any Downtime](https://downtherabithole.dev/migrating-a-critical-kubernetes-deployment-from-the-default-namespace-without-any-downtime)
 - [How DNS Really Works](https://downtherabithole.dev/how-dns-really-works)
 <!-- BLOG-POST-LIST:END -->
+
+I also love to [homelab](https://github.com/georgesims21/homelab) and [code some cool things](https://github.com/georgesims21/bunqd) in my spare time. When I'm not doing that I'm probably drinking overpriced coffee or watching restoration videos on YT.
+
+## 🎓 Certifications
+
+<a href="https://www.credly.com/badges/551021cf-33f6-443d-82d2-f711dec73cb3/public_url"><img src="https://images.credly.com/images/8b8ed108-e77d-4396-ac59-2504583b9d54/linkedin_thumb_cka_from_cncfsite__281_29.png" alt="CKA: Certified Kubernetes Administrator" height="120"></a>
+<a href="https://cp.certmetrics.com/comptia/en/public/verify/credential/DD4XKLRVG706F3W7"><img src="https://images.credly.com/images/eb876a27-49d1-4644-a602-abfc74e084f0/CompTIA_Linux_2B.png" alt="CompTIA Linux+" height="120"></a>
+
+
+
+<a href="https://www.linkedin.com/in/sims-george"><img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn" height="60"></a>
