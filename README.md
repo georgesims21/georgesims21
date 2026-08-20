@@ -2,7 +2,7 @@
 
 I'm a senior DevOps/Platform Engineer at Bynder focusing on developer experience.  
 
-I write about engineering, infrastructure, and AI tooling at [downtherabithole.dev](https://downtherabithole.dev). I also love to [homelab]() and [code some cool things]() in my spare time. When I'm not doing that I'm probably drinking overpriced coffee or restoration videos on YT.
+I write about engineering, infrastructure, and AI tooling at [downtherabithole.dev](https://downtherabithole.dev). I also love to [homelab](https://github.com/georgesims21/homelab) and [code some cool things](https://github.com/georgesims21/bunqd) in my spare time. When I'm not doing that I'm probably drinking overpriced coffee or restoration videos on YT.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sims-george)
 [![Blog](https://img.shields.io/badge/Blog-downtherabithole.dev-000000?style=for-the-badge&logo=rss&logoColor=white)](https://downtherabithole.dev)
