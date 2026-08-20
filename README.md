@@ -1,6 +1,8 @@
 # Hi, I'm George 👋
 
-I write about engineering, infrastructure, and AI tooling at [downtherabithole.dev](https://downtherabithole.dev).
+I'm a senior DevOps/Platform Engineer at Bynder focusing on developer experience.  
+
+I write about engineering, infrastructure, and AI tooling at [downtherabithole.dev](https://downtherabithole.dev).  
 
 ## 📝 Latest posts
 
