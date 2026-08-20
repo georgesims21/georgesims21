@@ -9,8 +9,8 @@ I write about engineering, infrastructure, and AI tooling at [downtherabithole.d
 
 ## 🎓 Certifications
 
-[![CKA](https://img.shields.io/badge/CNCF-Certified%20Kubernetes%20Administrator-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://www.credly.com/badges/551021cf-33f6-443d-82d2-f711dec73cb3/public_url)
-[![CompTIA Linux+](https://img.shields.io/badge/CompTIA-Linux%2B-E4162B?style=for-the-badge&logo=linux&logoColor=white)](https://cp.certmetrics.com/comptia/en/public/verify/credential/DD4XKLRVG706F3W7)
+<a href="https://www.credly.com/badges/551021cf-33f6-443d-82d2-f711dec73cb3/public_url"><img src="https://images.credly.com/images/8b8ed108-e77d-4396-ac59-2504583b9d54/linkedin_thumb_cka_from_cncfsite__281_29.png" alt="CKA: Certified Kubernetes Administrator" height="120"></a>
+<a href="https://cp.certmetrics.com/comptia/en/public/verify/credential/DD4XKLRVG706F3W7"><img src="https://images.credly.com/images/eb876a27-49d1-4644-a602-abfc74e084f0/CompTIA_Linux_2B.png" alt="CompTIA Linux+" height="120"></a>
 
 ## 📝 Latest posts
 
