@@ -4,8 +4,8 @@ I'm a senior DevOps/Platform Engineer at Bynder focusing on developer experience
 
 I write about engineering, infrastructure, and AI tooling at [downtherabithole.dev](https://downtherabithole.dev). I also love to [homelab](https://github.com/georgesims21/homelab) and [code some cool things](https://github.com/georgesims21/bunqd) in my spare time. When I'm not doing that I'm probably drinking overpriced coffee or watching restoration videos on YT.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sims-george)
-[![Blog](https://img.shields.io/badge/Blog-downtherabithole.dev-000000?style=for-the-badge&logo=rss&logoColor=white)](https://downtherabithole.dev)
+<a href="https://www.linkedin.com/in/sims-george"><img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn" height="60"></a>
+<a href="https://downtherabithole.dev"><img src="https://cdn.hashnode.com/uploads/og-images/698ce732e249cba68b3bbdb5/64fd146d-6db0-486d-8ecf-03cea38f3dee.png" alt="Down The Ra-bit Hole blog" height="120"></a>
 
 ## 🎓 Certifications
 
