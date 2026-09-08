@@ -2,7 +2,10 @@
 
 <p align="center">
 I'm a senior DevOps/Platform Engineer at Bynder focusing on developer experience.<br>
-I write about engineering, infrastructure, and AI tooling at <a href="https://downtherabithole.dev">downtherabithole.dev</a>. I also love to <a href="https://github.com/georgesims21/homelab">homelab</a> and <a href="https://github.com/georgesims21/bunqd">code some cool things</a> in my spare time. When I'm not doing that I'm probably drinking overpriced coffee or watching restoration videos on YT.
+I write about engineering, infrastructure, and AI tooling at <a href="https://downtherabithole.dev">downtherabithole.dev</a>. Check out my post which CNCF published: <a href="https://www.cncf.io/blog/2026/09/03/migrating-a-critical-kubernetes-deployment-from-the-default-namespace-without-any-downtime/">https://www.cncf.io/blog/2026/09/03/migrating-a-critical-kubernetes-deployment-from-the-default-namespace-without-any-downtime/</a></p>
+
+<p align="center">
+I also love to <a href="https://github.com/georgesims21/homelab">homelab</a> and <a href="https://github.com/georgesims21/bunqd">code some cool things</a> in my spare time. When I'm not doing that I'm probably drinking overpriced coffee or watching restoration videos on YT.
 </p>
 
 <p align="center">
